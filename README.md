@@ -3,4 +3,4 @@ Here are my solutions of [Advent of Code 2023](https://adventofcode.com/) puzzle
 
 These implementations are standalone, relying only on the C Standard Library.
 
-# 🧝🎅🎄
+# 🍪🎅🎄
