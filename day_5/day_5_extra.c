@@ -181,7 +181,7 @@ int main(){
     printf("MIN LOCATION: %lu\n",min_val);
     
     
-    
+    free(tid);
     free(ids_info);
     free(min_location);
     free(line);
