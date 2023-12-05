@@ -8,7 +8,6 @@
 #define MAX_NUM_SEEDS 50
 #define SIZE_MAP_ARR 100
 #define NUM_OF_MAPS 7
-#define NUM_THREADS 10
 
 const char* FILE_NAME = "input_file.txt";
 
