@@ -158,7 +158,7 @@ int main(){
         ids_info[i] = i;
     }
     
-    thrd_t tid[NUM_THREADS];
+    thrd_t* tid = (thrd_t*) malloc(num_seed_info * sizeof(thrd_t));
 
     for (int s_id = 0; s_id < num_seed_info; s_id++){
         
